@@ -1,5 +1,5 @@
 # 💫 About Me:
-😜 I'm a frontend developer who is working on huge things<br>😎 I prefer work with a team, there are magic in this<br>🤪 If you can think it, you can programming it  ~Programacion ATS<br>🤔 If you see me so serious, I'm not angry, I just think how my code works
+😜 I'm a frontend developer who is working on huge things<br>😎 I prefer work with a team, there are magic in that<br>🤪 If you can think it, you can programming it  ~Programacion ATS<br>🤔 If you see me so serious, I'm not angry, I just think how my code works
 
 
 ## 🌐 Socials:
